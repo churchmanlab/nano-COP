@@ -1,0 +1,1 @@
+# This folder contains all annotation files needed to produce the plots shown in the nano-COP manuscript.
