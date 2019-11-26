@@ -10,4 +10,4 @@ This repository includes the scripts and annotation files needed to analyze nano
 - Scripts to make the annotation files that are not supplied
 
 
-Link to our pre-print for more details on the nano-COP method: https://www.biorxiv.org/content/10.1101/611020v2
+Here is the link to our pre-print for more details on the nano-COP method: https://www.biorxiv.org/content/10.1101/611020v2
