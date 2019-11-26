@@ -1,1 +1,0 @@
-This folder contains all the scripts used for nano-COP analysis
