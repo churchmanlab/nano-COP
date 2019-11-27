@@ -1,0 +1,2 @@
+The annotation files for intron stringency (*_intronCoords_[no/low/medium/high]Stringency.txt) can be made for any cell line
+of interest using a short-read Illumina RNA-seq BAM file and the script intronCoord_stringency_from_RNAseq.py
