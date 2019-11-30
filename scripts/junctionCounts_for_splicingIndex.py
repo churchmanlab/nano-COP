@@ -7,7 +7,7 @@ Author : Heather Landry Drexler
 Count the number of reads spanning the 5'SS and 3'SS of all introns in the genome and record splicing status.
 This script will produce a file that can be used to calculate and plot splicing index values.
 
-use : python junctionCounts_for_splicingIndex.py intronCoordinates.txt input.bam output.txt
+use : python junctionCounts_for_SplicingIndex.py intronCoordinates.txt input.bam output.txt
             
             iIntrons (input file with splice site coordinates for introns) [1]
             iBAM (input BAM file with only unique alignments) [2]
