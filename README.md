@@ -10,4 +10,4 @@ For more details on the nano-COP method:
 
 -Our initial publication in Molecular Cell describing the method and its applications: https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30865-2
 
--Our step-by-step protocol: https://www.nature.com/articles/s41596-020-00469-y
+-Our step-by-step nano-COP protocol: https://www.nature.com/articles/s41596-020-00469-y
