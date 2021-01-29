@@ -4,8 +4,10 @@ Nanopore analysis of CO-transcriptional processing (nano-COP) exposes the nascen
 
 ![alt text](https://github.com/churchmanlab/nano-COP/blob/master/nanoCOP.png)
 
-This repository includes the scripts and annotation files needed to analyze nano-COP data. The "annotation_files" folder contains gene feature coordinates from human and Drosophila datasets that are utilized for analyzing nano-COP datasets. The "scripts" folder includes the python code to make necessary datasets and plots for each figure in the manuscript.
+This repository includes the scripts and annotation files needed to analyze nano-COP data. The "annotation_files" folder contains gene feature coordinates from human and Drosophila datasets that are utilized for analyzing nano-COP datasets. The "scripts" folder includes the python code to make necessary datasets and plots for each figure in the nano-COP articles.
 
 For more details on the nano-COP method:
--The initial publication in Molecular Cell describing the method: https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30865-2
--The step-by-step protocol to use nano-COP in your own research: https://www.nature.com/articles/s41596-020-00469-y
+
+-Our initial publication in Molecular Cell describing the method and its applications: https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30865-2
+
+-Our step-by-step protocol: https://www.nature.com/articles/s41596-020-00469-y
